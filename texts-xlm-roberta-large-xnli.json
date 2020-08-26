@@ -1,0 +1,21 @@
+{
+    "name": {
+        "0":"Who are you voting for in 2020? (Russian / French)",
+        "1":"Who are you voting for in 2020? (Arabic)",
+        "2":"Who are you voting for in 2020? (Turkish)",
+        "3":"IMDB Avengers Review (German / Spanish)",
+        "4":"Bose QuietComfort (Chinese)"
+    }, "text": {
+        "0": "За кого вы голосуете в 2020 году?",
+        "1": "لمن تصوت في 2020؟",
+        "2": "2020'de kime oy vereceksiniz?",
+        "3": "Bist du ein Fan von epischen Abenteuerfilmen? Dann wird dein Traum wahr! Dies ist wirklich das ultimative Superhelden-Mashup und es ist perfekt ausgeführt. Wir danken den Filmemachern, dass sie sich die Zeit genommen haben, es so zu gestalten, dass es mehr als nur ein Superheldenfilm ist, der voller Actionszenen ist und jedem Charakter Tiefe verleiht.",
+        "4": "当您清除世界上嘈杂的干扰时会发生什么？集中精力进入下一个层次。您可以更深入地了解音乐，作品或想要关注的任何事物。这就是Bose QuietComfort 35无线耳机II的强大功能。穿上它们，靠近您最热衷的事物。这仅仅是开始。现在，Bose AR启用了QuietComfort 35无线耳机II-一种创新的纯音频增强现实。耳机内部嵌入了一个多向运动传感器。 Bose AR可以利用它来根据您所在的位置提供上下文音频。通过Bose Connect应用程序通过固件更新解锁Bose AR。它们也支持Alexa，因此您无需看手机就可以享受娱乐，获取信息并管理一天。使用操作按钮或Bose Connect应用程序在三个设置之间调整消除噪音的水平。音量优化的均衡器可在任何音量下为您提供平衡的音频性能，即使在嘈杂的环境中，降噪双麦克风系统也可提供更清晰的通话。借助轻松的蓝牙配对，20小时的电池寿命以及持久，舒适的佩戴-您可以整天保持音乐或安静的氛围。包括：QuietComfort 35 II，手提箱，充电线，音频线，无需电池即可欣赏音乐。"
+    }, "labels": {
+        "0":"politique étrangère, Europe, élections, affaires, 2020, loisirs de plein air, politique",
+        "1":"السياسة الخارجية, أوروبا, الانتخابات, الأعمال التجارية, 2020, الترفيه في الهواء الطلق, السياسة",
+        "2":"dış politika, Avrupa, seçimler, iş, 2020, açık hava rekreasyonu, siyaset",
+        "3":"películas, acción, superhéroes, libros",
+        "4":"电子产品, 耳机, 健康与保健, 家具, 软件, 宠物用品"
+    }
+}
